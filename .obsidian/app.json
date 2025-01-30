@@ -7,6 +7,5 @@
   "newFileFolderPath": "Inbox",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Files",
-  "showRibbon": true
+  "attachmentFolderPath": "Files"
 }
