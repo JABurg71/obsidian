@@ -1,1 +1,0 @@
-This should be created in the Inbox directory
